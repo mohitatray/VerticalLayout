@@ -1,4 +1,4 @@
-package com.mohitatray.verticallayout
+package com.mohitatray.verticallayout.demo
 
 import org.junit.Test
 

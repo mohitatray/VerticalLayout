@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="VerticalLayout_Layout">
+        <attr name="android:layout_gravity" />
+        <attr name="layout_direction">
+            <enum name="start_to_end" value="0" />
+            <enum name="end_to_start" value="1" />
+        </attr>
+    </declare-styleable>
+
+</resources>
