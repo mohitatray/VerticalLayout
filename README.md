@@ -1,7 +1,7 @@
 # VerticalLayout
-Android layout widget to arrange a view vertically (90 or -90 degrees rotation).
+Android layout widget to arrange a view vertically (90 or -90 degrees rotated).
 
-Many developers were looking for a solution render text vertically in android. So I thought
+Many developers were looking for a solution to render text vertically in android. So I thought
 why should text have all the fun? ;)
 
 I created a generic `VerticalLayout` to render any layout
@@ -41,7 +41,7 @@ Just put whatever you want rendered vertically inside the `VerticalLayout`.
 </com.mohitatray.verticallayout.VerticalLayout>
 ```
 
-The text in this TextView will appear verically. Thats it!
+The text in this `TextView` will appear verically. Thats it!
 
 If you want the text to appear typed top to bottom instead of bottom to top,
 then just add `app:layout_direction="end_to_start"` attribute to the `TextView`.
