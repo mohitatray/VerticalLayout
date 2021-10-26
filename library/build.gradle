@@ -46,7 +46,7 @@ afterEvaluate {
         publications {
             release(MavenPublication) {
                 from components.release
-                groupId = 'com.mohitatray'
+                groupId = 'com.github.mohitatray'
                 artifactId = 'VerticalLayout'
                 version = '1.0.1'
             }
