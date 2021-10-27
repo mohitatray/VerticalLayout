@@ -4,6 +4,8 @@ plugins {
     id 'maven-publish'
 }
 
+group = 'com.github.mohitatray'
+
 android {
     compileSdk 30
 
@@ -48,7 +50,7 @@ afterEvaluate {
                 from components.release
                 groupId = 'com.github.mohitatray'
                 artifactId = 'VerticalLayout'
-                version = '1.0.2'
+                version = '1.0.3'
             }
         }
     }

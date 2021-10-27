@@ -22,7 +22,7 @@ Then in module level `build.gradle`, add this dependency under `dependencies`
 ```
 dependencies {
   ...
-  implementation 'com.github.mohitatray:VerticalLayout:1.0.0'
+  implementation 'com.github.mohitatray:VerticalLayout:1.0.3'
 }
 ```
 
